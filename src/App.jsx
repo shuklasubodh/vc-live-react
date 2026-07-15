@@ -1,8 +1,8 @@
 
 function App() {
   return (<>
-    <div>Welcome to Vercal Deploument</div>
-    </>
+    <h1>Welcome to Vercal Deploument</h1>
+  </>
 
   )
 }
